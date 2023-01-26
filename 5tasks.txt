@@ -1,0 +1,3 @@
+Нерастяжимая нить касается внешнего обода диска, проскальзывания между нитью и диском нет. За свободные конц нить тянут со скоростями с различными скоростями. Определить скорость центра диска  и угловую скорость вращения диска в следующих случаях.
+
+The inextensible thread touches the outer rim of the disk; there is no slippage between the thread and the disk. The free ends of the thread are pulled at different speeds. Determine the speed of the center of the disk and the angular speed of rotation of the disk in the following cases.
